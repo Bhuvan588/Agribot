@@ -6,6 +6,7 @@ This agribot answers all your questions related to agriculture.
 NOTE: This bot will have less accuracy as it is just a simple implementation of basic NLP preprocessing techniques.
 
 
+![WhatsApp Image 2024-05-16 at 9 27 00 PM](https://github.com/Bhuvan588/Agribot/assets/68458621/780859d8-0141-4e37-a017-7b5627bf67c5)
 
 
 ## Authors
@@ -40,4 +41,3 @@ Less interactive
 
 I am thinking of taking this project forward when I learn more about different tech and frameworks. 
 
-![WhatsApp Image 2024-05-16 at 9 27 00 PM](https://github.com/Bhuvan588/Agribot/assets/68458621/780859d8-0141-4e37-a017-7b5627bf67c5)
